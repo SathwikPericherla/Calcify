@@ -13,7 +13,7 @@ This is a simple calculator app created using HTML, CSS, and JavaScript.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/SathwikPericherla/calculator.git
+   git clone https://github.com/SathwikPericherla/Calcify.git
 Open the index.html file in your web browser.
 Usage
 Enter numbers and perform calculations using the provided buttons.
